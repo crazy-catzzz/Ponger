@@ -3,6 +3,10 @@
 # Ponger
 Ping Pong bot, now on steroids.
 
+This bot replies to every "ping" with "pong".
+There is a random chance that either the bot or the user will lose.
+If the chances of the player losing and the bot losing are both high enough, the ball will explode, creating a tie scenario.
+
 # How to use
 
 ## Add to server
@@ -24,3 +28,8 @@ DISCORD_TOKEN=nYOURz.kBOTw.qTOKENx_kGOESd-gHEREp
 Replace the values with your actual bot token.
 
 For the hosting part follow the guide.
+
+### Usage in a server
+
+- Create a channel containing the phrase "ping-pong"
+- Say "ping" and the bot will reply!
