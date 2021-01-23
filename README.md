@@ -9,6 +9,8 @@ Ping Pong bot, now on steroids.
 
 ### Best way: Use the "Add Bot" button on top of this file
 
+- Title pretty much speaks for itself
+
 ### Other way: Self host
 
 This bot is hosted on repl.it so you may want to follow [the idiot's guide](https://anidiots.guide/hosting/repl)
