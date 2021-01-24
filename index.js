@@ -17,7 +17,7 @@ client.on('message', message => {
     var botLoseChance = Math.random();
     var globalLoseChance = Math.random();
 
-    if (message.content === `ping`) {
+    if (message.content === `ping` || message.content === `Ping`) {
       
       if  (globalLoseChance >= 0.51) {
         
@@ -27,7 +27,7 @@ client.on('message', message => {
         } else if (playerLoseChance >= 0.51) {
           message.channel.send(`${message.author}, you lost!`);
         
-        } else message.channel.send(`${message.author}, the ball fucking exploded`);
+        } else message.channel.send(`${message.author}, the ball exploded`);
       } else message.channel.send(`${message.author}, pong`);
 
     }
