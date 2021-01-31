@@ -1,3 +1,6 @@
+# Privacy Policy
+By using Ponger, you agree to this Privacy Policy.
+
 # What data is stored?
 We do not store data.
 
