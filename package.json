@@ -4,7 +4,6 @@
   "description": "Ping Pong bot, on steroids.",
   "main": "index.js",
   "dependencies": {
-    "discord": "^0.8.2",
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
     "nodejs": "0.0.0"
@@ -19,5 +18,5 @@
     "npm": "*"
   },
   "author": "CrazyCatzz aka miao704g",
-  "license": "ISC"
+  "license": "GPLv2"
 }
