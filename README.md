@@ -1,4 +1,8 @@
-[![Add to server](https://img.shields.io/badge/Discord-Add%20Bot-blueviolet)](https://discord.com/api/oauth2/authorize?client_id=802479277324238859&permissions=1610088272&scope=bot) ![node](https://img.shields.io/node/v/support) ![license](https://img.shields.io/github/license/miao704g/Ponger)
+[![Add to server](https://img.shields.io/badge/Discord-Add%20Bot-blueviolet)](https://discord.com/api/oauth2/authorize?client_id=802479277324238859&permissions=1610088272&scope=bot) 
+![node](https://img.shields.io/node/v/support) 
+![license](https://img.shields.io/github/license/miao704g/Ponger)
+
+[![Support Server](https://img.shields.io/badge/Discord-Support%20Server-blueviolet)](https://discord.com/invite/QZs3WP93k4)
 
 # Ponger
 Ping Pong bot, now on steroids.
